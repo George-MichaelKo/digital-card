@@ -6,11 +6,12 @@ export default function Intro(){
         <h4>George-Michael's Digital Card</h4>
         <section className="button">
         <button className="email-btn">
-    <i className="fas fa-envelope"></i> <span>Email</span>
+    <i className="fas fa-letter"></i> <span>Resume</span>
   </button>
   <button className="link-btn">
     <i className="fab fa-linkedin"></i> <span>LinkedIn</span>
   </button>
+
         </section>
         </div>
     )
